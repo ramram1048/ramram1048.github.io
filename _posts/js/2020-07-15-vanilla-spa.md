@@ -30,7 +30,7 @@ categories: js
 
 # 1. 프로젝트 생성
 
-**프로젝트에 사용된 예제 완성본은 https://github.com/ramram1048/vanilla-spa에서 확인할 수 있다.
+**프로젝트에 사용된 예제 완성본은 [https://github.com/ramram1048/vanilla-spa](https://github.com/ramram1048/vanilla-spa)에서 확인할 수 있다.
 
 우선 빈 폴더를 하나 만들고 npm과 git 초기 설정을 진행하자. 터미널에 아래 명령어들을 입력한다.
 
@@ -458,4 +458,4 @@ https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 
 예제 내용은 github repository에서도 확인할 수 있다.
 
-주소: https://github.com/ramram1048/vanilla-spa
+주소: [https://github.com/ramram1048/vanilla-spa](https://github.com/ramram1048/vanilla-spa)
